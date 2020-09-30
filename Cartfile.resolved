@@ -1,2 +1,2 @@
 github "gmct/swift-protobuf" "1.12.1"
-github "jrendel/SwiftKeychainWrapper" "4.0.1"
+github "gmct/SwiftKeychainWrapper" "4.0.1"
